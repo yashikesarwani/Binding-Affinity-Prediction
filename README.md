@@ -8,7 +8,7 @@ PDBbind(v.2016)database,containing13,308protein−ligandcomplexesandtheir corres
 A smaller refined subset(4057Protein-ligandcomplexes)is extracted from it following quality protocols addressing structural resolution and experimental precision of the binding measurement.
 
 # Overflow
-![alt text](https://drive.google.com/file/d/1JGwzUWCMCNlxVKTr3OkxWGnipIKTdBFa/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1JGwzUWCMCNlxVKTr3OkxWGnipIKTdBFa/view?usp=sharing?raw=true)
 
 
 # Model used is squeezenet.
